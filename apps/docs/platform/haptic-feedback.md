@@ -19,7 +19,7 @@ method.
 
 ::: warning
 
-Use this method carefully. Emitting haptic events too often can make an effect on user's mobile
+Use this method carefully. Emitting haptic events too often can have an effect on user's mobile
 device battery.
 
 :::
